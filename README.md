@@ -1,2 +1,2 @@
-# E-Commerce-Project
-MERN STACK E-commerce Website
+#  MERN-STACK-ECOMMERCE 
+ Fully functional MERN stack e-commerce website
